@@ -12,6 +12,8 @@ Under this section, I will provide you the information of how these codes are ge
 ## PolyMod1
 ![Screenshot](Screenshot1.png)
 
+![Screenshot](Screenshot3.png)
+
 ## PolyMod3
 
 ![Screenshot](Screenshot2.png)
