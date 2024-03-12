@@ -7,7 +7,7 @@ This repository contains the assignments that is made during the learning proces
 Under this section, I will provide you the information of how these codes are getting executed, what's the process and will also provide you the Loom video link for the same.
 * Poly Advance Module 1: In this project, I have created a NFT collection which consists of 5 different images as NFTs and I have minted these NFTs in the Goerli Ethereum network and will going to transfer these tokens to the Polygon Mumbai network using the FxPortal bridge.
 
-* Poly Advance Module 3: This module helps in studying about Zero-knowledge proofs and in this project we implement the working of a circuit provided in the assignment using logic gates implementation. The code walkthrough and working of the project has been explained in this Loom video. 
+* Poly Advance Module 3: This module helps in studying about Zero-knowledge proofs and in this project we implement the working of a circuit provided in the assignment using logic gates implementation.
 
 ## ScreenShot
 ## PolyMod1
